@@ -1,6 +1,6 @@
-⚡ Hi there I'm Kusal 👋
-##👀 I’m interested in software development side
-##🌱 I’m currently learning Java/react/html/css/js
+- ⚡ Hi there I'm Kusal 👀 
+- I’m interested in software development side
+- 🌱 I’m currently learning Java/react/html/css/js
 
 
 
