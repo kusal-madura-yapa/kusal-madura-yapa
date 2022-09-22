@@ -8,7 +8,7 @@
 
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning programming  
 - ⚡ Fun fact: I use tabs over spaces  
   
 
