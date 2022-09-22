@@ -79,33 +79,25 @@
 <a href="https://instagram.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>   -->
-</div>  
-  
+</div>   
 
 <!-- <br/>  
 
-
-<!-- ## Github Stats   -->
-  
+<!-- ## Github Stats   --> 
 
 <br/>  
-
 
 <!-- ## Recent Blog Posts   -->
   
 
 <br/>  
 
-  
-
 <br/>   
 
 <!-- <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
 </div>   -->
-  
-
-
+ 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
