@@ -7,6 +7,8 @@
   
 
   
+ I am an undergraduate at IIT with a passion for software engineering. I'm a hard-working and quick learning person with a
+great passion for the IT industry and I can adapt to new environments quickly. 
 
 - 🌱 I’m currently learning programming  
 - ⚡ Fun fact: I use tabs over spaces  
