@@ -25,17 +25,16 @@ I'm a final-year BEng (Hons) Software Engineering student at the University of W
 
 ## Featured Projects  
 - **Adaptive Gamification Model for Programming Education (2024-2025)**  
-  Built an AI-powered platform using Deep Q-Networks (DQN) to personalize programming quizzes with gamification elements like leaderboards and real-time feedback. Dynamically adjusts difficulty to enhance engagement and retention for Gen Z learners. *[View in Portfolio](https://portfolio-p862.vercel.app/)*  
+  Built an AI-powered platform using Deep Q-Networks (DQN) to personalize programming quizzes with gamification elements like leaderboards and real-time feedback. Dynamically adjusts difficulty to enhance engagement and retention for Gen Z learners.   
 
 - **AI HR Bot (2023-2024)**  
-  Developed an AI-driven HR bot with OpenAI integration and vector databases for efficient data retrieval. Optimized prompts to streamline HR tasks, improving decision-making during my internship at 99X Technology. *[View in Portfolio](https://portfolio-p862.vercel.app/)*  
+  Developed an AI-driven HR bot with OpenAI integration and vector databases for efficient data retrieval. Optimized prompts to streamline HR tasks, improving decision-making during my internship at 99X Technology.  
 
 - **AI Web Solutions Platform (2023-2024)**  
-  Created a scalable web app using Vue.js and Nuxt.js, featuring AI-driven real-time validation and SEO optimization. Focused on user engagement and system scalability for a modern, accessible experience. *[View in Portfolio](https://portfolio-p862.vercel.app/)*  
+  Created a scalable web app using Vue.js and Nuxt.js, featuring AI-driven real-time validation and SEO optimization. Focused on user engagement and system scalability for a modern, accessible experience. 
 
 - **Employee Upskilling Platform (2023-2024)**  
-  Contributed to an internal platform for employee skill development, ensuring seamless backend integration and a user-friendly interface to customize learning journeys. *[View in Portfolio](https://portfolio-p862.vercel.app/)*  
-
+  Contributed to an internal platform for employee skill development, ensuring seamless backend integration and a user-friendly interface to customize learning journeys. 
 <br/>  
 
 ## Achievements  
