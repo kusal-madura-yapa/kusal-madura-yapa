@@ -42,7 +42,7 @@ I'm a final-year BEng (Hons) Software Engineering student at the University of W
 - **OpenHack 2.0 Designathon (2021)**: 1st Runner-Up for a home energy management system prototype  
 - **RevolUX 2.0 UI/UX Designathon (2021)**: Finalist for intuitive UI/UX designs  
 - **IEEEXtreme 16.0 Programming (2022)**: Ranked 67th in Sri Lanka  
-
+- ** https://www.credly.com/users/pathirana-don-kusal-madura-yapa ** You can see my achievement in AWS Education 
 <br/>  
 
 ## Connect with me  
