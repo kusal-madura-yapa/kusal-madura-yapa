@@ -18,7 +18,9 @@ I'm a final-year BEng (Hons) Software Engineering student at the University of W
 - **Frameworks**: Vue.js, Nuxt.js, Next.js, Flask  
 - **Mobile**: iOS (Swift UI), Android  
 - **Tools**: GitHub, Colab, VS Code, Xcode, Figma, AWS, Azure  
-- **Domains**: AI-driven solutions, full-stack development, agile methodologies  
+- **Domains**: AI-driven solutions, full-stack development, agile methodologies
+
+- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="20303c08-eb08-4ea1-91c5-bbc2276499bd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## Soft Skills  
 - Leadership, problem-solving, creativity, adaptability, teamwork  
