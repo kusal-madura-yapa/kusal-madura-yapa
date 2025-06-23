@@ -3,7 +3,7 @@
 <img src="https://i.pinimg.com/originals/4a/fd/e9/4afde9596bfe30a1bb56a556f1ffefa6.gif" alt="AI Animation">
 </div>  
 
-I'm a freshly graduated BEng (Hons) Software Engineering student at the University of Westminster, passionate about crafting intelligent, user-centric solutions through AI/ML and full-stack development. I led an innovative adaptive gamification platform using Deep Q-Networks (DQN) to transform programming education. As a contributor to the NBQSA Merit Award-winning OPTIMAXER AI project (2023), I specialise in building scalable AI systems, optimising prompts, and delivering seamless web and mobile experiences. Check out my work at [my portfolio](https://portfolio-p862.vercel.app/)!
+Newly graduated BEng (Hons) Software Engineering professional from the University of Westminster, with a passion for full-stack development, AI and machine learning. Skilled in reinforcement learning and scalable web applications, I contributed significantly to the NBQSA Merit Award-winning OPTIMAXER AI project (2023) and leading the development of an adaptive gamification platform using Deep Q-Networks (DQN) to personalize learning in Final year project. With hands-on experience in agile environments, I am eager to apply my expertise to solve challenges and deliver innovative, impactful AI/ML solutions. and be ablity to change with new technologies withing each and ever change required. [my portfolio](https://portfolio-p862.vercel.app/)!
 
 - 🔭 I’m working on AI-driven learning platforms and full-stack applications  
 - 🌱 I’m mastering reinforcement learning, vector databases, and modern frameworks like Next.js  
